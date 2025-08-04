@@ -1,0 +1,27 @@
+\contentsline {chapter}{Abstract {\&} Keywords}{3}{}%
+\contentsline {chapter}{Preface}{4}{}%
+\contentsline {chapter}{List of figures}{5}{}%
+\contentsline {chapter}{List of figures}{5}{}%
+\contentsline {chapter}{Introduction}{6}{}%
+\contentsline {chapter}{Introduction}{6}{}%
+\contentsline {chapter}{Literature study / Theoretical framework}{8}{}%
+\contentsline {chapter}{Research}{9}{}%
+\contentsline {section}{\numberline {1}Topic 1}{10}{}%
+\contentsline {subsection}{\numberline {1.1}Sub Topic 1}{10}{}%
+\contentsline {subsubsection}{Sub sub Topic 1}{10}{}%
+\contentsline {section}{\numberline {2}Topic 2}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Sub Topic 1}{11}{}%
+\contentsline {subsubsection}{Sub sub Topic 1}{11}{}%
+\contentsline {chapter}{Case Study}{12}{}%
+\contentsline {section}{\numberline {3}Introduction}{12}{}%
+\contentsline {section}{\numberline {4}Modelling}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Blockout}{13}{}%
+\contentsline {subsection}{\numberline {4.2}ZBrush}{14}{}%
+\contentsline {section}{\numberline {5}Texturing}{15}{}%
+\contentsline {section}{\numberline {6}Shading}{15}{}%
+\contentsline {section}{\numberline {7}Lighting}{16}{}%
+\contentsline {chapter}{Discussion}{17}{}%
+\contentsline {chapter}{Conclusion}{18}{}%
+\contentsline {chapter}{Future work}{19}{}%
+\contentsline {chapter}{Critical Reflection}{20}{}%
+\contentsline {chapter}{References}{21}{}%

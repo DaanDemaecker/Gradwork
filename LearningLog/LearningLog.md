@@ -86,3 +86,12 @@ I realized that the looks of the ambient occlusion are, of course, also very imp
 ## 02/08 - 04/08
     - Implemented time stamping method for benchmarking
     - Realised that an app called Renderdoc does this for you with higher quality
+    
+## 05/8 - 08/08
+    - Prepared everything for experiments
+
+## 09/08
+    - Set up questionnaire and sent to as many people as possible
+
+## 10/08 - 13/08
+    - Took all measurments needed for second half of the experiment

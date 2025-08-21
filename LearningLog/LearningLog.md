@@ -94,4 +94,16 @@ I realized that the looks of the ambient occlusion are, of course, also very imp
     - Set up questionnaire and sent to as many people as possible
 
 ## 10/08 - 13/08
-    - Took all measurments needed for second half of the experiment
+    - Took all measurments needed for second half of the experiment  
+
+## 14/08 - 15/08
+    - Filtered measurements, made graphs and started drafting paper
+
+## 16/08 - 17/08
+    - Finished draft of paper   
+
+## 18/08 - 20/08
+    -Continued paper and created presentation
+
+## 21/08
+    - Test presentation
